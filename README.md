@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=610&height=44&lines=I%20love%20cool%20design%20and%20functionalities" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=610&height=44&lines=I%20love%20cool%20design%20and%20functionalities;and%20icecreams" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 Computer Science student passionate about coding, AI, and physics. I enjoy building projects, solving problems, and turning ideas into reality. Currently exploring DSA, Java, automation, research-driven technologies and new flavours in icecream while continuously learning and creating.
 
@@ -20,7 +20,7 @@ Computer Science student passionate about coding, AI, and physics. I enjoy build
 😄 &nbsp;Pronouns: **she/her/they/them**  
 ⚡ &nbsp;Fun fact: **I dream of building technology that belongs in a sci-fi novel.**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -51,21 +51,21 @@ Computer Science student passionate about coding, AI, and physics. I enjoy build
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vidisha-jain-112510370/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vj251099@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:workwithj25@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vidisha2508&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vidisha2508&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vidisha2508&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
