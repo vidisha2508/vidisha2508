@@ -16,13 +16,13 @@
 
 Computer Science student passionate about coding, AI, circuits and physics. I enjoy building projects, solving problems, and turning ideas into reality. Currently exploring DSA, Java, automation, research-driven technologies and new flavours in icecream while continuously learning and creating.
 
-🔭 &nbsp;I'm currently working on **Next Bit - A Architect Visualizer**  
-🌱 &nbsp;I'm currently learning **Java, AI, RAG , CPS Systems, automation, OSP**  
-👯 &nbsp;I'm looking to collaborate on **AI projects, research tools, motion design projects, hobby rocketry and innovative tech ideas**  
-🤔 &nbsp;I'm looking for help with **Advanced system design, open source, and OS**  
-💬 &nbsp;Ask me about **Python, C/C++, Java, AI, physics, OOPs, electronics, rockets**  
-😄 &nbsp;Pronouns: **she/her/they/them**  
-⚡ &nbsp;Fun fact: **I dream of building technology that belongs in a sci-fi novel.**
+ &nbsp;I'm currently working on **Next Bit - A Architect Visualizer**  
+ &nbsp;I'm currently learning **Java, AI, RAG , CPS Systems, automation, OSP**  
+ &nbsp;I'm looking to collaborate on **AI projects, research tools, motion design projects, hobby rocketry and innovative tech ideas**  
+ &nbsp;I'm looking for help with **Advanced system design, open source, and OS**  
+ &nbsp;Ask me about **Python, C/C++, Java, AI, physics, OOPs, electronics, rockets**  
+ &nbsp;Pronouns: **she/her/they/them**  
+ &nbsp;Fun fact: **I dream of building technology that belongs in a sci-fi novel.**
 
 ### Tech Stack
 
